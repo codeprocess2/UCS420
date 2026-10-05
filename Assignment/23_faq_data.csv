@@ -1,0 +1,7 @@
+question,answer,keywords,category
+How can I reset my student portal password?,Use the 'Forgot Password' link on the student portal login page and follow the password reset email instructions.,"['password', 'login', 'security,student', 'name']",account
+How can I pay my tuition fees online?,"Go to the billing section in the student portal, select your term, and complete the payment using the secure payment gateway.","['fees', 'payment', 'receipt']",billing
+Where can I check my class timetable?,Your class timetable is available under the Academic Services section in the student portal or the timetable dashboard.,"['timetable', 'classes', 'schedule']",general
+How can I contact an academic advisor?,"You can contact an academic advisor through the student support office, advisor email, or the online support request form.","['advisor', 'academic', 'support']",general
+Where can I find information about college holidays?,You can check the academic calendar in the student portal for the complete list of college holidays.,"['holidays', 'calendar', 'academic']",general
+How can I check whether my tuition fee payment was successful?,You can verify your tuition fee payment status in the billing section of the student portal and view the payment receipt.,"['payment', 'billing', 'receipt']",billing
